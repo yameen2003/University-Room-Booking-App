@@ -1,0 +1,4 @@
+com.uni.booking.test.composeApp-androidTest-0 /Users/yasirabanuka/Downloads/BookingApp/composeApp/build/generated/res/resValues/androidTest/debug
+com.uni.booking.test.composeApp-mergeDebugAndroidTestResources-1 /Users/yasirabanuka/Downloads/BookingApp/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.uni.booking.test.composeApp-mergeDebugAndroidTestResources-2 /Users/yasirabanuka/Downloads/BookingApp/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.uni.booking.test.composeApp-merged_res-3 /Users/yasirabanuka/Downloads/BookingApp/composeApp/build/intermediates/merged_res/debugAndroidTest
